@@ -1,2 +1,2 @@
-# Similarity-of-Amazon-Books-Reviews
+# Similar-Amazon-Books-Reviews
 Project of The Algorithms for Massive Data Course
