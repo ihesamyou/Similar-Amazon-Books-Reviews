@@ -1,4 +1,4 @@
-# Text Similarity Detector
+# TextSimilarityDetector
 Project of The Algorithms for Massive Data Course
 
 The code runs fully on Google Colab.
